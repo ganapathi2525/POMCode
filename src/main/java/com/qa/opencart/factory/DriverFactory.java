@@ -74,7 +74,7 @@ public class DriverFactory {
 	}
 
 	/**
-	 * this method is reading the propertis from .properties file
+	 * this method is reading the propertis from .properties file and used for jenkins also
 	 * 
 	 * @return
 	 */
